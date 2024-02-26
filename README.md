@@ -30,11 +30,11 @@
 
 <h3 align="center">Data Cleaning</h3>
 
-py
+```py
 import pandas as pd
 df=pd.read_csv("SAMPLEIDS.csv")
 df
-
+```
 ![image](https://github.com/DHINESH-SEC/exno1/assets/118351569/dfb891f0-1ff6-4086-be44-00b49cccf68f)
 
 py
