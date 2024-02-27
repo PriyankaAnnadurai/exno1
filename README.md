@@ -191,4 +191,4 @@ df1
 ![image](https://github.com/DHINESH-SEC/exno1/assets/118351569/08be1792-3872-4f44-922f-ff50c606b79e)
 
 ## Result
-
+Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score method.
